@@ -1,6 +1,6 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=aktarulrahul.aktarulrahul&style=for-the-badge)
 [![Github](https://img.shields.io/github/followers/aktarulrahul?label=Follow&style=for-the-badge&logo=github)](https://github.com/aktarulrahul)
-[![wakatime](https://wakatime.com/badge/user/7da43ba9-2bc5-4a32-baea-19e38fc777e2.svg?style=for-the-badge)](https://wakatime.com/@aktarulrahul)
+[![wakatime](https://wakatime.com/badge/user/62289807-5aee-44c1-870d-70138cc6067d.svg?style=for-the-badge)](https://wakatime.com/@aktarulrahul)
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Aktarul Islam you can call me Rahul.</h1>
 <p align="center">
