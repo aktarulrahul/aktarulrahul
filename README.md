@@ -12,7 +12,7 @@
 
 ## 🤹 My Skills
 
-- ❤ I'm a self-taught passionate developer.
+- I'm a self-taught passionate developer.
 - Frontend Developer: React JS, Next JS
 - Backend Developer: Node JS, Express, NestJS
 - Mobile App Developer: React Native
