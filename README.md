@@ -7,7 +7,7 @@
   <a href="https://github.com/aktarulrahul"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Self+taught;Full+stack+developer.;App+developer.;DevOps+Engineer.;Learning+new+things+everyday."></a>
 </p>
 <hr/>
-<p align="center">I am a passionate developer with a strong focus on Web and Mobile App Development. My skill set encompasses many technologies, and I have hands-on experience as a Full Stack Developer.</p>
+<h4 align="center">Enthusiastic about the entire software lifecycle: Full-Stack Dev with DevOps expertise.</h4>
 <br>
 
 ## 🛠️ My Skills
@@ -63,10 +63,10 @@
     <a href="https://nestjs.com/"><img alt="nest" src="https://img.shields.io/badge/nestjs-EA2760?style=for-the-badge&logo=nestjs&logoColor=white"></a>
       &emsp;
     <a href="https://fastapi.tiangolo.com/"><img alt="fastapi" src="https://img.shields.io/badge/fastapi-049487?style=for-the-badge&logo=fastapi&logoColor=white"></a>
-    
+
  </p>
 
-### ☁ DevOps
+### ♾️ DevOps
 
 <p align="left">
   &emsp;
@@ -83,6 +83,15 @@
     <a href="https://www.ansible.com/"><img alt="ansible" src ="https://img.shields.io/badge/ansible-191817?style=for-the-badge&logo=ansible&logoColor=white"></a>
   
  </p>
+
+### 👩🏻‍💻 CMS
+
+<p align="left">
+  &emsp;
+  <a href="https://wordpress.org/" target="_blank">
+   <img alt="React" src="https://img.shields.io/badge/wordpress-20232A?style=for-the-badge&logo=wordpress&logoColor=61DAFB">
+  </a>
+</p>
 
 ### ⚙ Software & Tools
 
@@ -113,7 +122,7 @@
 </div>
 <div>
  <p align="center">
-   
+
   <hr/>
   <div>
      <p align="center">
@@ -139,10 +148,10 @@
 <p>
   
   <br/>
-	<a href="mailto:contact@aktarulislam.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/aktarulrahul/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/aktarul-islam/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/rahul_aktarulislam/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+ <a href="mailto:contact@aktarulislam.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+ <a href="https://github.com/aktarulrahul/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+ <a href="https://www.linkedin.com/in/aktarul-islam/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+ <a href="https://www.instagram.com/rahul_aktarulislam/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 ![contrib-graph](https://github.com/aktarulrahul/aktarulrahul/raw/output/github-snake.svg#gh-light-mode-only)
