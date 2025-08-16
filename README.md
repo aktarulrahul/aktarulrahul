@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/62289807-5aee-44c1-870d-70138cc6067d.svg?style=for-the-badge)](https://wakatime.com/@aktarulrahul)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Aktarul+Islam!;Full+Stack+Developer;DevOps+Engineer;App+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Aktarul+Islam! aka Rahul;Full+Stack+Developer;AI+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -25,10 +25,10 @@ I'm a passionate **Full-Stack Developer** with expertise in modern web technolog
 
 ### 🌟 What Drives Me
 
-- **Continuous Learning**: Always exploring new technologies and best practices
-- **Problem Solving**: Turning complex challenges into elegant solutions
-- **Collaboration**: Working with teams to deliver exceptional user experiences
-- **Innovation**: Embracing cutting-edge technologies to build the future
+- **AI Innovation**: Exploring and implementing cutting-edge AI technologies to solve real-world problems
+- **User-Centric Design**: Creating intuitive and intelligent applications that enhance user experiences
+- **Continuous Learning**: Staying updated with the latest full-stack technologies and AI advancements
+- **Problem Solving**: Transforming complex challenges into elegant, scalable solutions
 
 ---
 
