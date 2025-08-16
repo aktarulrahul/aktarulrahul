@@ -14,14 +14,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** and **DevOps Engineer** with a love for creating robust, scalable applications and optimizing development workflows. When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or sharing knowledge with the developer community.
+I'm a passionate **Full-Stack Developer** with expertise in modern web technologies and a deep interest in **Generative AI** and **Agentic AI**. I love creating intelligent, user-centric applications that leverage cutting-edge AI capabilities. When I'm not coding, you'll find me exploring new AI technologies, building innovative solutions, or sharing knowledge with the developer community.
 
 ### 🎯 What I Do
 
-- **Full-Stack Development**: Building end-to-end web applications with modern technologies
-- **DevOps Engineering**: Automating deployments, managing infrastructure, and ensuring smooth CI/CD pipelines
-- **Mobile App Development**: Creating cross-platform mobile applications
-- **Cloud Architecture**: Designing and implementing cloud-native solutions
+- **Full-Stack Development**: Building end-to-end web applications with React, Next.js, and modern technologies
+- **Backend Development**: Creating robust APIs with Node.js, Express, and FastAPI
+- **AI Integration**: Developing intelligent applications with Generative AI and Agentic AI
+- **Cloud Solutions**: Deploying and managing applications on AWS and Azure
 
 ### 🌟 What Drives Me
 
@@ -56,12 +56,6 @@ I'm a passionate **Full-Stack Developer** and **DevOps Engineer** with a love fo
   </a>
   <a href="https://nextjs.org/" target="_blank">
     <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   </a>
 </p>
 
@@ -105,8 +99,16 @@ I'm a passionate **Full-Stack Developer** and **DevOps Engineer** with a love fo
   <a href="https://kubernetes.io/" target="_blank">
     <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">
   </a>
-  <a href="https://www.jenkins.io/" target="_blank">
-    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+</p>
+
+### 🤖 AI & Emerging Technologies
+
+<p align="left">
+  <a href="https://openai.com/" target="_blank">
+    <img alt="Generative AI" src="https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white">
+  </a>
+  <a href="#" target="_blank">
+    <img alt="Agentic AI" src="https://img.shields.io/badge/Agentic_AI-00ADD8?style=for-the-badge&logo=autopilot&logoColor=white">
   </a>
 </p>
 
@@ -118,12 +120,6 @@ I'm a passionate **Full-Stack Developer** and **DevOps Engineer** with a love fo
   </a>
   <a href="https://github.com/" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
-  </a>
-  <a href="https://wordpress.org/" target="_blank">
-    <img alt="WordPress" src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   </a>
 </p>
 
