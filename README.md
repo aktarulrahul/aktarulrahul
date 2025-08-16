@@ -3,7 +3,7 @@
 [![wakatime](https://wakatime.com/badge/user/62289807-5aee-44c1-870d-70138cc6067d.svg?style=for-the-badge)](https://wakatime.com/@aktarulrahul)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Aktarul+Islam! aka Rahul;Full+Stack+Developer;AI+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Aktarul+Islam!+aka+Rahul;Full+Stack+Developer;AI+Developer;Always+Learning+%26+Growing" alt="Typing SVG" />
 </div>
 
 <div align="center">
